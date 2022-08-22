@@ -1,0 +1,62 @@
+/* playfair-display-500 - latin */
+@font-face {
+  font-family: 'Playfair Display';
+  font-style: normal;
+  font-weight: 500;
+  src: local(''),
+       url('../fonts/playfair-display-v30-latin-500.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('../fonts/playfair-display-v30-latin-500.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+
+
+.logo-stile
+{
+  font-family: "Playfair Display", Georgia, "Times New Roman", serif/*rtl:Amiri, Georgia, "Times New Roman", serif*/;
+  font-size: 2.25rem;
+}
+
+.logo-stile:hover
+{
+  text-decoration: none;
+}
+
+.nav-over
+{
+  overflow: hidden;
+
+}
+
+.nav-lis
+{
+  flex-wrap: nowrap;
+}
+
+h1,h2,h3,h4,h5
+{
+  font-family: "Playfair Display", Georgia, "Times New Roman", serif/*rtl:Amiri, Georgia, "Times New Roman", serif*/;
+}
+
+
+.posts__img
+{
+  height: 100%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
